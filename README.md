@@ -68,7 +68,7 @@ python main.py
 ## 🌐 Live Demo
 
 👉 Deployment Link:
-https://your-deployed-link.com
+https://ai-personal-assistant-zp9g.onrender.com/
 
 ---
 
